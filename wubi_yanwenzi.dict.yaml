@@ -1,0 +1,31 @@
+# Rime dictionary: wubi_yanwenzi
+# encoding: utf-8
+
+# 本词典为基于五笔编码的颜文字（即用五笔输入码表注释中的词汇则可输入相应颜文字）
+# 应作为import码表补充到其他词典中使用
+# 编写人：HencyChine <cyc1601@msn.com>
+
+
+---
+name: wubi_yanwenzi
+version: "2016.04.14"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+
+# 码表暂无排序
+
+#掀桌
+(╯°口°)╯(┴—┴	rrhj
+
+#orz
+_(:3」∠)_	orz
+
+#摊手
+╮(￣▽￣)╭	rcrt

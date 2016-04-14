@@ -1,0 +1,74 @@
+# Rime dictionary: wubi_number_symbol
+# encoding: utf-8
+
+# 本词典为基于五笔编码的UTF-8符号（即用五笔输入码表注释中的词汇则可输入相应符号）
+# 应作为import码表补充到其他词典中使用
+# 编写人：HencyChine <cyc1601@msn.com>
+
+
+---
+name: wubi_number_symbol
+version: "2016.04.14"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+
+# 码表暂无排序
+
+#一
+①	g
+#二
+②	fg
+#三
+③	dg
+#四
+④	lh
+#五
+⑤	gg
+#六
+⑥	uy
+#七
+⑦	ag
+#八
+⑧	wty
+#九
+⑨	vt
+#十
+⑩	fgh
+#左
+←	da
+#上
+↑	h
+#右
+→	dk
+#下
+↓	gh
+#左上
+↖	dahh
+#右上
+↗	dkhh
+#右下
+↘	dkgh
+#左下
+↙	dagh
+#对勾
+√	cfqc
+#所以
+∴	rnny
+#因为
+∵	ldyl
+#星星
+★	jtjt
+☆	jtjt
+#点
+·	hko
+#男
+♂	ll
+#女
+♀	vvv

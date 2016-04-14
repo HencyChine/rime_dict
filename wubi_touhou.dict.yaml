@@ -1,0 +1,383 @@
+# Rime dictionary: wubi_touhou
+# encoding: utf-8
+
+# 本词典为基于五笔编码的东方Project相关简体字词汇
+# 应作为import码表补充到其他词典中使用
+# 编写人：HencyChine <cyc1601@msn.com>
+
+
+---
+name: wubi_touhou
+version: "2016.04.14"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+
+# 词汇根据内容所属分类
+
+# 游戏术语（按拼音排序）
+版边	thlp
+版底	thyq
+版顶	thsd
+背版	uxth
+避弹	nkxu
+擦弹	rpxu
+残机	gqsm
+触手	qert
+大玉	ddgy
+弹幕	xuaj
+弹型	xuga
+道中	utkh
+底力	yqlt
+非符	djtw
+挂长	rfta
+关底	udyq
+混关	ijud
+蓝点	ajhk
+鳞弹	qgxu
+毛玉	tfgy
+米弹	oyxu
+全避	wgnk
+扔雷	refl
+沙包	iiqn
+时符	jftw
+使魔	wgys
+收点	nhhk
+微移	tmtq
+消弹	iixu
+小玉	ihgy
+原曲	drma
+杂鱼	vsqg
+札弹	snxu
+折返	rrrc
+子机	bbsm
+自机	thsm
+自机狙	tsqt
+走位	fhwu
+
+# 设定和考据（按拼音排序）
+博丽	fggm
+博丽神社	fgpp
+结界	xflw
+红魔	xays
+秘封	tnff
+秘封俱乐部	tfwu
+骚灵	ccvo
+河童	isuj
+燕石	audg
+咏唱	kykj
+幽冥	xxpj
+
+# 官方作品名
+## 旧作
+东方幻想乡	ayxx
+幻想乡	xsxt
+东方怪绮谈	ayny
+怪绮谈	nxyo
+东方封魔录	ayfv
+封魔录	fyvi
+东方梦时空	aysp
+梦时空	sjpw
+东方灵异传	ayvw
+灵异传	vnwf
+
+## 整数作
+东方红魔乡	ayxx
+红魔乡	xyxt
+东方妖妖梦	ayvs
+妖妖梦	vvss
+东方永夜抄	ayyr
+永夜抄	yyri
+东方花映塚	ayaf
+花映塚	ajfp
+东方风神录	aymv
+风神录	mpvi
+东方地灵殿	ayfn
+地灵殿	fvna
+东方星莲船	ayjt
+星莲船	jate
+东方神灵庙	aypy
+神灵庙	pvym
+东方辉针城	ayif
+辉针城	iqfd
+东方绀珠传	ayxw
+绀珠传	xgwf
+
+## 小数点作
+东方萃梦想	ayas
+萃梦想	assh
+东方文花帖	ayym
+文花帖	yamh
+东方绯想天	ayxg
+绯想天	xsgd
+东方非想天则	aydm
+非想天则	dsgm
+妖精大战争	vodq
+大战争	dhqv
+东方心绮楼	ayns
+心绮楼	nxso
+弹幕天邪鬼	xagr
+天邪鬼	garq
+东方深秘录	ayiv
+深秘录	itvi
+
+## 商业出版物
+东方三月精	aydo
+三月精	deog
+东方香霖堂	ayti
+香霖堂	tfip
+东方茨歌仙	ayaw
+茨歌仙	aswm
+东方铃奈庵	ayqy
+铃奈庵	qdyd
+东方儚月抄	aywr
+儚月抄	weri
+东方求闻史纪	ayfx
+求闻史纪	fukx
+东方求闻口授	ayfr
+求闻口授	rukr
+东方紫香花	ayha
+紫香花	htaw
+
+## 西方Project
+秋霜玉	tfgy
+稀翁玉	twgy
+
+## 音乐CD
+蓬莱人形	aawg
+莲台野夜行	acjt
+梦违科学世纪	sftx
+卯酉东海道	qsau
+大空魔术	dpys
+鸟船遗迹	qtky
+伊弉诺物质	wnyr
+燕石博物馆
+
+# 角色名称（包括别称）
+博丽灵梦	fgvs
+灵梦	voss
+雾雨魔理沙	ffyi
+魔理沙	ygii
+
+稗田阿求	tlbf
+阿求	bsfy
+本居小铃	sniq
+小铃	ihqw
+
+森近霖之助	srfe
+霖之助	fpeg
+
+绵月依姬	xewv
+绵月丰姬	xedv
+
+玛艾露贝莉·赫恩	gafl
+梅莉	stat
+宇佐见莲子	pwmb
+
+## 旧作
+魅魔	rqys
+
+## 红魔乡
+露米娅	fovg
+大妖精	dvog
+琪露诺	gfya
+红美铃	xuqw
+美铃	ugqw
+小恶魔	igys
+帕秋莉·诺蕾姬	mtav
+帕秋莉	mtat
+十六夜咲夜	fuyy
+咲夜	kuyw
+蕾米莉亚·斯卡蕾特	aoat
+蕾米莉亚	aoag
+蕾米	afoy
+大小姐	dive
+斯卡蕾特	ahat
+芙兰朵露·斯卡蕾特	aumt
+芙兰朵露	aumf
+芙兰	afuf
+二小姐	five
+
+## 妖妖梦
+蕾蒂·霍瓦特洛克	aafd
+蕾蒂	afau
+爱丽丝·玛格特洛依德	egxt
+爱丽丝	egxx
+莉莉怀特	aant
+莉莉白	aarr
+白莉莉	raat
+骚灵三姐妹	cvdv
+露娜萨·普利兹姆利巴	fvac
+露娜萨	fvab
+梅露兰·普利兹姆利巴	sfuc
+梅露兰	sfuf
+莉莉卡·普利兹姆利巴	aahc
+莉莉卡	aahh
+魂魄妖梦	frvs
+妖梦	vtss
+西行寺幽幽子	stfb
+幽幽子	xxbb
+八云蓝	wfaj
+八云紫	wfhx
+
+## 永夜抄
+莉格露·奈特巴格	asfs
+莉格露	asfk
+米斯蒂娅·萝蕾拉	oaar
+米斯蒂娅	oaav
+夜雀	ywiw
+上白泽慧音	hriu
+慧音	dhuj
+因幡帝	lmup
+铃仙·优昙华院·因幡	qwwm
+铃仙	qwwm
+优昙华院	wjwb
+因幡	lsmh
+八意永琳	wuyg
+永琳	yngs
+师匠	jgar
+蓬莱山辉夜	aamy
+辉夜	iqyw
+藤原妹红	advx
+妹红	vfxa
+
+## 花映塚
+射命丸文	twvy
+文文	yyyy
+梅蒂欣·梅兰可莉	sara
+梅蒂欣	sarq
+风见幽香	mmxt
+小野塚小町	ijfl
+小町	ihls
+四季映姬·亚玛萨那度	ltjy
+四季映姬	ltjv
+
+## 风神录
+秋静叶	tgkf
+秋穰子	ttbb
+秋姐妹	tvvf
+键山雏	qmqv
+转转	lflf
+河城荷取	ifab
+荷取	awbc
+犬走椛	dfsa
+椛椛	sasa
+东风谷早苗	amwa
+早苗	jhal
+八坂神奈子	wfpb
+神奈子	pdbb
+洩矢诹访子	ityb
+诹访子	yybb
+
+## 地灵殿
+琪斯美	gaug
+黑谷山女	lwmv
+土蜘蛛	fjjr
+水桥帕露西	isms
+帕露西	mfsg
+桥姬	stva
+星熊勇仪	jccw
+勇仪	cewy
+古明地觉	djfi
+小五	ihgg
+火焰猫燐	ooqo
+阿燐	bsoo
+灵乌路空	vqkp
+阿空	bspw
+古明地恋	djfy
+恋恋	yoyo
+
+## 星莲船
+娜兹玲	vugw
+多多良小伞	qqyw
+小伞	ihwu
+云居一轮	fngl
+村纱水蜜	sxip
+寅丸星	pvjt
+圣白莲	cral
+白莲	rral
+封兽鵺	fuyw
+封兽	fful
+
+## 神灵庙
+幽谷响子	xwkb
+响子	ktbb
+宫古芳香	pdat
+霍青娥	fgvt
+苏我屠自古	atnd
+屠自古	ntdg
+物部布都	tudf
+布都	dmft
+丰聪耳神子	dbbb
+神子	pybb
+二岩猯藏	fmqa
+大狸子	dqbb
+
+## 辉针城
+若鹭姬	akva
+赤蛮奇	fyds
+今泉影狼	wrjq
+九十九姐妹	vfvv
+九十九弁弁	vfvc
+弁弁	caca
+九十九八桥	vfvs
+八桥	wtst
+鬼人正邪	rwga
+正邪	ghah
+少名针妙丸	iqqv
+针妙丸	qvvy
+堀川雷鼓	fkff
+雷鼓	flfk
+
+## 绀珠传
+清兰	iguf
+铃瑚	qwgd
+哆来咪·苏伊特	kgkt
+哆来咪	kgko
+稀神探女	tprv
+稀神	tqpy
+探女	rpvv
+克劳恩皮丝	dalx
+皮丝	hcxx
+纯狐	xgqt
+赫卡提亚·拉碧斯拉祖利	fhrt
+赫卡提亚	fhrg
+赫卡	fohh
+
+## FTG/小数点
+伊吹萃香	wkat
+萃香	aytj
+永江衣玖	yiyg
+衣玖	yegq
+比那名居天子	xvqb
+姬海棠果	viij
+桑尼米尔克	cnod
+桑尼	ccnx
+露娜切露德	fvat
+露娜	fkvv
+斯塔萨菲雅	afaa
+斯塔	adfa
+秦心	dwny
+茨木华扇	aswy
+华扇	wxyn
+宇佐见堇子	pwmb
+堇子	akbb
+
+# 符卡名称
+反魂蝶	rfja
+永夜返	yyrc
+
+# 其他（按拼音排序）
+幻想万华镜	xsdq
+例大祭	wdwf
+神主	pyyg
+同人	mgww
+万华镜	dwqu
+幽闭	xxuf
+
